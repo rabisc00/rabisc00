@@ -3,12 +3,6 @@
 - 🌱 Estudando Python
 - 🙄 Pronomes: ele/dele
 - 📡 Técnico: Informática para a internet
-
-<div align="center">
-  <a href="https://github.com/heyViktor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyViktor&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyViktor&layout=compact&langs_count=7&theme=radical"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
