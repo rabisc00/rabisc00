@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Ruan Victor 👋
 
-- 🌱 Estudando Python
-- 🙄 Pronomes: ele/dele
+- 🌱 Cursando: Análise e desenvolvimento de sistemas
+- 🙄 Pronomes: he/they
 - 📡 Técnico: Informática para a internet
   
 <div style="display: inline_block"><br>
