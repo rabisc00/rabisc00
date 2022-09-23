@@ -3,7 +3,7 @@
 - 🌱 Cursando: Análise e desenvolvimento de sistemas
 - 🙄 Pronomes: he/they
 - 📡 Técnico: Informática para a internet
-- 🤩 Interesses: Backend developer
+- 🤩 Interesses: Backend/Fullstack developer
 
 ## Linguagens de Programação
 
