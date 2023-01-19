@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Ruan Victor 👋
 
 - 🌱 Cursando: Análise e desenvolvimento de sistemas
-- 🙄 Pronomes: he/they
+- 🙄 Pronomes: he/him
 - 📡 Técnico: Informática para a internet
 - 🤩 Interesses: Backend/Fullstack developer
 
