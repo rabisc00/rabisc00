@@ -1,8 +1,9 @@
 ## Olá! Meu nome é Ruan Victor 👋
 
 - 🌱 Cursando: Análise e desenvolvimento de sistemas
-- 🙄 Pronomes: he/him
+- 🫠 Pronomes: any/all
 - 📡 Técnico: Informática para a internet
+- 💻 Trabalho - CE Junior Developer AlfaPeople
 - 🤩 Interesses: Backend/Fullstack developer
 
 ## Linguagens de Programação
