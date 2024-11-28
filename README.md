@@ -1,12 +1,12 @@
-## Olá! Meu nome é Ruan Victor 👋
+## Greetings! My name is Ruan Victor 👋
 
-- 🌱 Cursando: Análise e desenvolvimento de sistemas
-- 🫠 Pronomes: any/all
+- 🌱 Graduating: Software Analysis and Development
+-  🫠 Pronouns: any/all
 - 📡 Técnico: Informática para a internet
-- 💻 Trabalho - CE Junior Developer AlfaPeople
-- 🤩 Interesses: Backend/Fullstack developer
+- 💻 Position - CE Junior Developer at AlfaPeople
+- 🤩 Interests: Software Developer
 
-## Linguagens de Programação
+## Programming Languages
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
