@@ -2,7 +2,6 @@
 
 - 🌱 Graduating: Software Analysis and Development
 -  🫠 Pronouns: any/all
-- 📡 Técnico: Informática para a internet
 - 💻 Position - CE Junior Developer at AlfaPeople
 - 🤩 Interests: Software Developer
 
