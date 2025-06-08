@@ -1,4 +1,4 @@
-## Greetings! My name is Ruan Victor 👋
+## Greetings! My name is Chloe Anastacio 👋
 
 - 🌱 Graduating: Software Analysis and Development
 -  🫠 Pronouns: she/her
