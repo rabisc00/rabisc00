@@ -1,9 +1,9 @@
 ## Greetings! My name is Ruan Victor 👋
 
 - 🌱 Graduating: Software Analysis and Development
--  🫠 Pronouns: any/all
-- 💻 Position - CE Junior Developer at AlfaPeople
-- 🤩 Interests: Software Developer
+-  🫠 Pronouns: she/her
+- 💻 Position - Freelance
+- 🤩 Interests: Web developer
 
 ## Programming Languages
 
