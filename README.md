@@ -1,7 +1,7 @@
 ## Greetings! My name is Chloe Anastacio 👋
 
 - 🌱 Graduated in: Software Analysis and Development
--  🫠 Pronouns: she/her
+-  🫠 Pronouns: she/they
 - 💻 Position: None
 - 🤩 Interests: Software developer
 
