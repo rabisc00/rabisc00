@@ -9,10 +9,10 @@
 I'm a Computer Science graduate based in Cork, Ireland.
 
 *   🔭 I’m currently working on **building a scalable and user-friendly music reviewing website**.
-*   🌱 I’m currently learning **C++ and Cloud Computing**
+*   🌱 I’m currently learning **Docker and Cloud Computing**
 *   💡 I'm passionate about **building solutions that are scalable, user-friendly, and make a positive impact**.
-*   💬 Ask me about **C++, APIs, React**.
-*   ⚡ Fun fact: I am also a writer and music reviewer in my free time.
+*   💬 Ask me about **Java, APIs, React**.
+*   ⚡ Fun fact: I am a music reviewer in my free time
 
 ---
 
