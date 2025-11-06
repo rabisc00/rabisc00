@@ -1,4 +1,4 @@
-# Hi there, I'm Ruan Victor Anastacio 👋
+# Hi there, Ruan Victor Anastacio 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chloe-anastacio-ba3442211/)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-website.com) -->
@@ -6,9 +6,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science graduate based in Cork, Ireland.
+I have Level 6 degree in Software Analysis and Development, working towards getting a bachelors.
 
-*   🔭 I’m currently working on **building a scalable and user-friendly music reviewing website**.
+*   🔭 I’m currently working on **building a scalable and user-friendly music review website**.
 *   🌱 I’m currently learning **Docker and Cloud Computing**
 *   💡 I'm passionate about **building solutions that are scalable, user-friendly, and make a positive impact**.
 *   💬 Ask me about **Java, APIs, React**.
@@ -20,7 +20,6 @@ I'm a Computer Science graduate based in Cork, Ireland.
 
 **Languages & Frameworks:**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=black)
 ![Node.JS](https://img.shields.io/badge/Node.JS-5FA04E?style=flat-square&logo=nodedotjs&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=cplusplus&logoColor=white)
@@ -65,4 +64,4 @@ Here are a few projects I've built that I'm particularly proud of:
 
 ---
 
-⭐️ *From [Ruan Victor Anastacio](https://github.com/yourusername)*
+⭐️ *From [Ruan Victor Anastacio](https://github.com/rabisc00)*
