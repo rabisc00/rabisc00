@@ -64,4 +64,4 @@ Here are a few projects I've built that I'm particularly proud of:
 
 ---
 
-⭐️ *From [Ruan Victor Anastacio](https://github.com/rabisc00)*
+*From [Francis 💕](https://github.com/rabisc00)*
