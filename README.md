@@ -1,8 +1,8 @@
-# Hi there, Francis de Queiros 👋
+# Hi there, I'm Francis de Queiros 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chloe-anastacio-ba3442211/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-victor-anastacio-ba3442211/)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-website.com) -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chloeanastacio1512@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xxfrancisforever@icloud.com)
 
 ### 👨‍💻 About Me
 
@@ -56,12 +56,12 @@ Here are a few projects I've built that I'm particularly proud of:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/rabisc00">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabisc00&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabisc00&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+  <a href="https://github.com/xxfrancisforever">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxfrancisforever&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxfrancisforever&theme=radical&hide_border=true&layout=compact&langs_count=8" />
   </a>
 </p>
 
 ---
 
-*From [Francis 💕](https://github.com/rabisc00)*
+*From [Francis 💕](https://github.com/xxfrancisforever)*
